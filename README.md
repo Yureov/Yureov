@@ -11,4 +11,4 @@
     <img align="center" alt="css"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div><br/>
 
-Apaixonado por Tecnologia e Programação
+Amante da Tecnologia e Programação
